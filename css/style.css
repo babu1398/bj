@@ -16641,6 +16641,27 @@ pre {
 .extra-nav .extra-cell li:last-child,li:has(#quik-search-btn){
   display: none;
 }
-.logo{
-        max-width: 55px;
+
+.logo {
+    max-width: 165px;
+}
+.popup-youtube{
+    pointer-events: none;
+}
+.social-menu{
+    display: none !important;
+}
+.flex-bj{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.flex-bj h2{
+ margin: 0;
+}
+.bj-banner{
+    padding: 20px 0 !important;
+}
+.site-footer p a{
+    color: #fff;
 }
